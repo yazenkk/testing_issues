@@ -4,4 +4,6 @@ line1 // adding a comment right here
 line2
 local statement "Hi"
 
+add line 3 // testing to see how changing a branch right after merging it works
+
 // end 
